@@ -62,7 +62,7 @@ using OdeToFood;
             WriteLiteral("\r\n<!DOCTYPE html>\r\n\r\n<html>\r\n");
             EndContext();
             BeginContext(127, 101, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "af8da06bf8994f5fb093234ddcc1db9e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "70243185f07441c69305168d8127bb21", async() => {
                 BeginContext(133, 88, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>Delete</title>\r\n");
                 EndContext();
@@ -82,7 +82,7 @@ using OdeToFood;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(230, 322, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6e270e6420374f2a94b0ff1e8da7fc65", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f543f8350eef4988a9ec9d1fb96bc465", async() => {
                 BeginContext(236, 101, true);
                 WriteLiteral("\r\n    <h2>Delete</h2>\r\n    <div class=\"alert alert-danger\">\r\n        Are you sure you want to delete ");
                 EndContext();
@@ -97,12 +97,12 @@ using OdeToFood;
                 WriteLiteral(" ?\r\n    </div>\r\n    ");
                 EndContext();
                 BeginContext(379, 164, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0a432f3eb86744b4b7e913f2d47f5062", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "74fe3595ae7242079fd975543362c56e", async() => {
                     BeginContext(399, 78, true);
                     WriteLiteral("\r\n        <button type=\"submit\" class=\"btn btn-danger\">Yes!</button>\r\n        ");
                     EndContext();
                     BeginContext(477, 53, false);
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0a847ed6a12b46f082d1c300067736b5", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "090767a01f5a4ce3a2018126e8213b8f", async() => {
                         BeginContext(520, 6, true);
                         WriteLiteral("Cancel");
                         EndContext();
